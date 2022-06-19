@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tessolopam">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Tessolopam">
+        <activity
+            android:name=".LihatTiket"
+            android:exported="false" />
+        <activity
+            android:name=".TampilanPesanan"
+            android:exported="false" />
+        <activity
+            android:name=".TampilanOrder"
+            android:exported="false" />
+        <activity
+            android:name=".TampilanMoonknight"
+            android:exported="false" />
+        <activity
+            android:name=".TampilanBlackpanther"
+            android:exported="false" />
+        <activity
+            android:name=".TampilanBatman"
+            android:exported="false" />
+        <activity
+            android:name=".Regis"
+            android:exported="false" />
+        <activity
+            android:name=".MenuUtama"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

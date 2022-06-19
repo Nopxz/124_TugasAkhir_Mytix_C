@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299749617431",
+    "project_id": "tessolopam",
+    "storage_bucket": "tessolopam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299749617431:android:cad05a7897743a714c5152",
+        "android_client_info": {
+          "package_name": "com.example.tessolopam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299749617431-3bd6uulnd6vl1100sb60v2bf7kd5lpva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN4Cw2dSYg14nEc4w2dhON_vWB4ssqVm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299749617431-3bd6uulnd6vl1100sb60v2bf7kd5lpva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

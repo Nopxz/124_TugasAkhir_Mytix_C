@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MyTix</string>
+    <string name="nWelcome">Welcome to MyTix</string>
+    <string name="tNama">Nama</string>
+    <string name="tPass">Password</string>
+    <string name="tEmail">Email</string>
+    <string name="tRepas">Re-Password</string>
+    <string name="twelcom">Hai,</string>
+    <string name="nhasil">Hasil</string>
+    <string name="ntask">Task</string>
+    <string name="nRepas">Konfirmasi Password</string>
+    <string name="tTodo">Belum mempunyai akun?</string>
+    <string name="mSub">Submit</string>
+    <string name="logout">Logout</string>
+    <string name="logo">logo2</string>
+    <string name="nTask">Masukkan Task</string>
+    <string name="tJenis">Jenis Task</string>
+    <string name="nJenis">Masukkan Jenis Task</string>
+    <string name="tTime">Time Task</string>
+    <string name="nTime">Masukkan Lama Task</string>
+    <string name="nNama">Masukkan Username</string>
+    <string name="nPass">Masukkan Password</string>
+    <string name="nSign">Masuk</string>
+    <string name="nRegister">Daftar</string>
+    <string name="nlog">Logo</string>
+    <string name="nEmail">Masukkan Email</string>
+    <string name="daftarfilm">DAFTAR FILM</string>
+    <string name="thebatman">THE BATMAN</string>
+    <string name="moonknight">MOONKNIGHT</string>
+    <string name="blackpanther">BLACK PANTHER</string>
+    <string name="pesanan">PESANAN ANDA</string>
+    <string name="format">FORMAT PESANAN :</string>
+    <string name="psmasuknama">Masukkan Nama Pemesan</string>
+    <string name="psmasuknamafilm">Masukkan Nama Film</string>
+    <string name="psjumlahtiket">Masukkan Jumlah Tiket</string>
+    <string name="HargaTiket1">Rp 40.000,00</string>
+
+</resources>
